@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 十一經問對
-#+DATE: 2015-09-23 09:41:03
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:18:55.986470
+#+PROPERTY: ID KR1g0014
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1g0014_WYG_000-1a>¶
 欽定四庫全書　　　　　　經部七¶
 　十一經問對　　　　　　　五經總義類¶
@@ -49,6 +51,7 @@
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 <pb:KR1g0014_WYG_000-3b>¶
 　　　　　　　　總　校　官　(臣/)　陸　費　墀¶
+#+PROPERTY: JUAN 目録
 <pb:KR1g0014_WYG_000-4a>¶
 欽定四庫全書　　　　經部七¶
 　十一經問對目錄　　　五經總義類¶
@@ -71,4 +74,3 @@
 　　儀禮¶
 　　春秋¶
 　　禮記¶
-

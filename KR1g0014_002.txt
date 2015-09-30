@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 十一經問對
-#+DATE: 2015-09-23 09:41:03
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:18:56.034781
+#+PROPERTY: ID KR1g0014
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1g0014_WYG_002-1a>¶
 欽定四庫全書¶
 　十一經問對卷二¶
@@ -596,4 +598,3 @@
 　¶
 　¶
 　十一經問對卷二¶
-

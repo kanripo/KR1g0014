@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 十一經問對
-#+DATE: 2015-09-23 09:41:03
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:18:56.059731
+#+PROPERTY: ID KR1g0014
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1g0014_WYG_003-1a>¶
 欽定四庫全書¶
 　十一經問對卷三¶
@@ -416,4 +418,3 @@
 　共六十有四小序止係一¶
 　¶
 　十一經問對卷三¶
-
